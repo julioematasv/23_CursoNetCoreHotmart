@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33423.256
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoNetoreHotmart", "CursoNetoreHotmart.csproj", "{BBED9BC8-4CA5-4DC1-99A3-ECB58EFF015B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_CursoNetCoreHotmart", "23_CursoNetCoreHotmart.csproj", "{BBED9BC8-4CA5-4DC1-99A3-ECB58EFF015B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
